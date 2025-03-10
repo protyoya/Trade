@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  Cryptify
+
+  Created by Jan Babák on 18.12.2022.
+  
+*/
+
+
+// MARK: - Markets
+
+"markets" = "Trhy";
+"lastUpdate: " = "Poslední aktualizace: ";
+
+"pair" = "Pár";
+"price" = "Cena";
+"24h" = "24h";
+
+"createList" = "Vytvořit seznam";
+"createListSubtitle" = "Vytvořit nový seznam symbolů.";
+"name" = "Jméno";
+"create" = "Vytvořit";
+"cancel" = "Zrušit";
+"setAsDefault" = "Nastavit jako výchozí";
+"deleteList" = "Smazat seznam";
+"delete %@?" = "Smazat %@?";
+"delete" = "Smazat";
+
+"removeFrom " = "Odstranit z ";
+"addTo " = "Přidat do ";
+
+"watchlist" = "Sledované";
+
+// MARK: - Ticker detail
+
+"price: " = "Cena: ";
+"24h: " = "24h: ";
+
+"chartType" = "Druh grafu";
+"lineChart" = "Křivka";
+"areaChart" = "Plocha";
+"candleChart" = "Svíce";
+
+"interval" = "Interval";
+"all" = "Vše";
+"10Y" = "10l";
+"5Y" = "5l";
+"2Y" = "2r";
+"1Y" = "1r";
+"6M" = "6M";
+"3M" = "3M";
+"1M" = "1M";
+"1W" = "1t";
+"1D" = "1d";
+"1H" = "1h";
+"30m" = "30m";
+
+"details" = "Detaily";
+"low: " = "Minimum: ";
+"high: " = "Maximum: ";
+"open: " = "Otevírací cena: ";
+"close: " = "Uzavírací cena: ";
+"quantity: " = "Množství: ";
+"tradeCount: " = "Počet obchodů: ";
+
+"trades" = "Obchody";
+"sum" = "Suma";
+"amount" = "Množství";
+
+"orderBook" = "Seznam příkazů";
+"bids" = "Nabídka";
+"asks" = "Poptávka";
+
+// MARK: - Settings
+
+"settings" = "Nastavení";
+
+"theme" = "Vzhled";
+"systemTheme" = "systémový";
+"darkTheme" = "tmavý";
+"lightTheme" = "světlý";
+"notifications" = "Notifikace";
+"soundEffects" = "Zvuky";
+"defaultMarketList" = "Výchozí seznam";
+"appLanguage" = "Jazyk aplikace";
+"resetAllSettings" = "Resetovat nastavení";
+
+"about" = "O aplikaci";
+"sourceCode" = "[Zdrojový kód](https://gitlab.fit.cvut.cz/babakjan/cryptify)";
+"followMeOnGitHub" = "[Sledujte mě na GitHubu](https://github.com/babakjan)";
+"messageMeOnLinkedIn" = "[Pošlete mi zprávu na LinkedInu](https://www.linkedin.com/in/janbabak/)";
+
+// MARK: - Errors
+
+"defaultErrorHeading" = "Něco se pokazilo!";
+"defaultErrorMessage" = "Možná nejste připojeni k internetu nebo server není v současné době dostupný. Zkuste to prosím později.";
+"serverError" = "Server je momentálně nedostupný. Prosíme zkuste to později, pracujeme na tom.";
+"clientError" = "Možná jste ztratili připojení nebo se něco pokazilo na vašem zařízení.";
+"chartNotAvailable" = "Graf není momentálně dostupný.";
+"tradesNotAvailableError" = "Obchody nejsou dostupné!";
+"orderBookNotAvailableError" = "Seznam příkazů není dostupný!";
+"listNameEmpty" = "Jméno seznamu nemůže být prázdné!";
+"listAlreadyExists" = "Seznam již existuje! Zvolte jiné jméno.";

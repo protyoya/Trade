@@ -1,0 +1,103 @@
+/*
+  Localizable.strings
+  Cryptify
+
+  Created by Jan Babák on 18.12.2022.
+  
+*/
+
+
+// MARK: - Markets
+
+"markets" = "Markets";
+"lastUpdate: " = "Last update: ";
+
+"pair" = "Pair";
+"price" = "Price";
+"24h" = "24h";
+
+"createList" = "Create list";
+"createListSubtitle" = "Create a new list of symbols.";
+"name" = "Name";
+"create" = "Create";
+"cancel" = "Cancel";
+"setAsDefault" = "Set as default";
+"deleteList" = "Delete list";
+"delete %@?" = "Delete %@?";
+"delete" = "Delete";
+
+"removeFrom " = "Remove from ";
+"addTo " = "Add to ";
+
+"watchlist" = "Watchlist";
+
+// MARK: - Ticker detail
+
+"price: " = "Price: ";
+"24h: " = "24h: ";
+
+"chartType" = "Chart type";
+"lineChart" = "Line";
+"areaChart" = "Area";
+"candleChart" = "Candles";
+
+"interval" = "Interval";
+"all" = "All";
+"10Y" = "10Y";
+"5Y" = "5Y";
+"2Y" = "2Y";
+"1Y" = "1Y";
+"6M" = "6M";
+"3M" = "3M";
+"1M" = "1M";
+"1W" = "1W";
+"1D" = "1D";
+"1H" = "1H";
+"30m" = "30m";
+
+"details" = "Details";
+"low: " = "Low: ";
+"high: " = "High: ";
+"open: " = "Open: ";
+"close: " = "Close: ";
+"quantity: " = "Quantity: ";
+"tradeCount: " = "Trade count: ";
+
+"trades" = "Trades";
+"sum" = "Sum";
+"amount" = "Amount";
+
+"orderBook" = "Order book";
+"bids" = "Bids";
+"asks" = "Asks";
+
+// MARK: - Settings
+
+"settings" = "Setting";
+
+"theme" = "Theme";
+"systemTheme" = "system";
+"darkTheme" = "dark";
+"lightTheme" = "light";
+"notifications" = "Notifications";
+"soundEffects" = "Sound Effects";
+"defaultMarketList" = "Default market list";
+"appLanguage" = "App language";
+"resetAllSettings" = "Reset all settings";
+
+"about" = "About";
+"sourceCode" = "[Source code](https://gitlab.fit.cvut.cz/babakjan/cryptify)";
+"followMeOnGitHub" = "[Follow me on GitHub](https://github.com/babakjan)";
+"messageMeOnLinkedIn" = "[Message me on LinkedIn](https://www.linkedin.com/in/janbabak/)";
+
+// MARK: - Errors
+
+"defaultErrorHeading" = "Something went wrong!";
+"defaultErrorMessage" = "You may have lost your connection or the server is currently unavailable. Please try it later.";
+"serverError" = "The server is currently unavailable. Please wait, we are working on that.";
+"clientError" = "You may have lost your connection or something has broken on your device.";
+"chartNotAvailable" = "The chart's not available!";
+"tradesNotAvailableError" = "Trades are not available!";
+"orderBookNotAvailableError" = "Order Book isn't available!";
+"listNameEmpty" = "List name can't be empty!";
+"listAlreadyExists" = "The list already exists! Choose a different name.";
