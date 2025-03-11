@@ -2,7 +2,7 @@
 
 ![image alt](https://github.com/protyoya/Trade/blob/6fcd82181db9ba8aafee1afbe2ed0897ae9a93ee/mockup.png)
 
-###[Watch Screen Recording]( https://youtube.com/shorts/pjhEURr6-7w)
+### [Watch Screen Recording]( https://youtube.com/shorts/pjhEURr6-7w)
 
 ## 📝 Description
 
