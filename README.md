@@ -2,6 +2,8 @@
 
 ![image alt](https://github.com/protyoya/Trade/blob/6fcd82181db9ba8aafee1afbe2ed0897ae9a93ee/mockup.png)
 
+###[Watch Screen Recording]( https://youtube.com/shorts/pjhEURr6-7w)
+
 ## 📝 Description
 
 Trade is a mobile app for tracking real-time prices of cryptocurrencies. It is a native app for the iOS operating system, i. e. for the Apple iPhone, created in Swift language and Swift UI framework.
