@@ -6,30 +6,29 @@
 
 ## 📝 Description
 
-Trade is a mobile app for tracking real-time prices of cryptocurrencies. It is a native app for the iOS operating system, i. e. for the Apple iPhone, created in Swift language and Swift UI framework.
-
-Users can track real-time rates, charts showing price movements, trades, and order books. The application offers saving favorite currencies, creating watchlists, sending notifications, or customizing the user interface.
-
+Trade is a native iOS app built with Swift and SwiftUI, designed for real-time cryptocurrency tracking. 
+It provides live price updates, interactive charts, trade history, and order book data. Users can save favorite currencies, create watchlists, set notifications, and customize the interface for a personalized experience.
 
 
 ## ⚽️ Projects goals
 
-The goal was to create a native mobile app for the iOS operating system, which allow users to easily and quickly track the current cryptocurrency rates. The inspiration was the Apple stock app, which has a similar purpose for stocks. I wanted to create an app that is simpler and easier to use than complicated crypto exchange apps. 
-
+The objective was to develop a native mobile application specifically for iOS, enabling users to efficiently monitor real-time cryptocurrency prices. The design was inspired by Apple’s stock app, which serves a similar function for traditional stocks. The aim was to create a more intuitive and user-friendly alternative to the often complex interfaces of cryptocurrency exchange platforms.
 
 ## 🚀 Features
 
-The most important feature is displaying the cryptocurrency rates of different pairs of cryptocurrencies. On the Markets screen, users can see a list of tradable pairs at the Poloniex exchange (I use their API as a data source). The app allows to sort the pairs by price, name or daily change. Furthermore, the users can search in the list of pairs.
+A core functionality of the app is providing real-time exchange rates for various cryptocurrency pairs. The Markets screen displays a comprehensive list of tradeable pairs available on the Poloniex exchange, with data retrieved via its API.
 
-In addition to the list of all pairs, users have a watch list where they can save pairs of interest. It is also possible to create more lists and set the default list displayed on the home screen after opening the app.
+Users can organize the list by sorting pairs based on price, name, or daily percentage change. A search option is also available, making it easier to locate specific trading pairs.
 
-The second most important feature is displaying pair detail. Detail shows current price, daily change, chart, trades, and order book.
+Beyond the general market list, the app includes a watchlist feature that enables users to save their preferred pairs. Additionally, they can create multiple lists and set a default one to appear on the home screen upon launching the app.
 
-The app offers three chart display options - area, line, and candle chart. Next, users can choose the period that the chart represents. The options are All, 10, 5, 2, 1 year, 6, 3, 1 month, week, day, hour, and 30 minutes.
+Another key feature is the Pair Details section, which provides an overview of each pair’s performance. It displays essential data, including the latest price, daily percentage change, price charts, recent trades, and the order book.
 
-At the bottom of the pair detail, it is possible to toggle between trades and order book. Bids and asks are distinguishable by color.
+For visual representation, the app offers three types of charts: area, line, and candlestick. Users can customize the time range displayed, with options ranging from all-time data to specific intervals such as 10, 5, 2, or 1 year, as well as 6, 3, or 1 month, a week, a day, an hour, or 30 minutes.
 
-Last but not least, settings. The settings screen allows users to change the theme (light, dark, system), disable notifications and sounds, and change the app language. The app supports English and Czech.
+Within the Pair Details view, users can toggle between the recent trade history and the order book. Buy and sell orders are color-coded for easy differentiation.
+
+Lastly, the Settings menu provides customization options, including theme selection (light, dark, or system default), the ability to enable or disable notifications and sounds, and language preferences.
 
 ## ✅ Software requirements
 
